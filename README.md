@@ -9,7 +9,7 @@
       <tr>
 
 <tr>        
-<th> <p style="font-family:consolas;">Resume</p></th>
+<!-- <th> <p style="font-family:consolas;">Resume</p></th> -->
 <th> <p style="font-family:consolas;">Twitter</p></th>
 <tr>
            

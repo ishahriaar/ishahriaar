@@ -8,12 +8,7 @@
 <!--    <th> <a href="https://twitter.com/ishahriar94" target = "_blank" > <img alt="TWITTER" title="TWITTER" height="40" width="40" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"></a></th> 
       <tr> -->
 
-<tr>        
-<!--  <th> <p style="font-family:consolas;">Resume</p></th> -->
-<th> <p style="font-family:consolas;">Twitter</p></th>
-<tr> -->
-           
-<tr>
+
     
 
 

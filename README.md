@@ -8,13 +8,17 @@
   <img alt="Django" src="https://img.icons8.com/color/48/000000/django.png" /> 
   <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" /> 
   <img alt="Javascript" src="https://img.icons8.com/color/48/000000/postgreesql.png" /> 
+  <img src="https://img.icons8.com/dusk/100/000000/anaconda.png" />
   <img alt="Javascript" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
   <img alt="Javascript" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" />
+  
+  <img src="https://s10.gifyu.com/images/odoo1.png" />
 </p>
 
 
 <p align="center">
   
   <a href="https://www.linkedin.com/in/shahriaramin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ShahriarAmin-blue"></a>
+  <a href="https://twitter.com/alpha_turing"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow%20Me-blue"></a>
 </p>

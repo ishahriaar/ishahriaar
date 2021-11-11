@@ -22,8 +22,8 @@
 
 
 <p align="center">
-
+[![Twitter Badge](https://img.shields.io/badge/-@_shiningflash-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_shiningflash)](https://twitter.com/_shiningflash)
   
- <a href="https://www.linkedin.com/in/shahriaramin/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-Shahriar%20Amin-brightgreen?style=?style=flat-      square&logo=LinkedIn"></a>
+ <a href="https://www.linkedin.com/in/shahriaramin/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-Shahriar%20Amin-brightgreen?style=flat-      square&logo=LinkedIn"></a>
   <a href="https://twitter.com/alpha_turing"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow%20Me-blue"></a>
 </p>

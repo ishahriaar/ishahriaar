@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1620282616/36373/pc.gif?1620282616" width="30"/> Hey! Nice to see you.</h1>
 
-![GitHub gif](https://s9.gifyu.com/images/demo_git.gif)
+![image](assets/gif003.gif)
 
 </br> </br>
 

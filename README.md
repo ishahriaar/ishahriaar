@@ -23,9 +23,9 @@
 
 <p align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-amirulislamalmamun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahriaramin/)](https://www.linkedin.com/in/shahriaramin/) 
+[![Linkedin Badge](https://img.shields.io/badge/-_ShahriarAmin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahriaramin/)](https://www.linkedin.com/in/shahriaramin/) 
   
-[![Twitter Badge](https://img.shields.io/badge/-@_shiningflash-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alpha_turing)](https://twitter.com/alpha_turing) 
+[![Twitter Badge](https://img.shields.io/badge/-_ShahriarAmin-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alpha_turing)](https://twitter.com/alpha_turing) 
   
  
 </p>

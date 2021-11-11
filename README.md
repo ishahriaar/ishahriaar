@@ -1,16 +1,20 @@
-![image](https://github.com/ishahriar94/ishahriar94/blob/master/Welcome%20to%20my%20github.gif)
-<html>
-
-<!-- <table>
-<tr>
-      <tr> 
-<!--   <th> <a href="https://drive.google.com/file/d/1tqQ1BkWOjzvJY26pAq7QABbnBga5_ylA/view?usp=sharing" target = "_blank" > <img alt="RESUME" title="RESUME" height="40" width="40" src="https://img.icons8.com/nolan/64/submit-resume.png"></a></th> -->
-<!--    <th> <a href="https://twitter.com/ishahriar94" target = "_blank" > <img alt="TWITTER" title="TWITTER" height="40" width="40" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"></a></th> 
-      <tr> -->
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1588262851/8816/meow_bread_appear.gif?1588262851" width="30"/> Hey! Nice to see you.</h1>
 
 
-    
+<p>Hey There ! </br>  I'm <b> M M Shahriar Amin </b>.Focusing on develop scalable and well documented code. Learning new things every day. It's all about adventure and learning. Life is an adventure </b>
+<h3> Things I code with </h3>
+<p>
+  <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
+  <img alt="Django" src="https://img.icons8.com/color/48/000000/django.png" /> 
+  <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" /> 
+  <img alt="Javascript" src="https://img.icons8.com/color/48/000000/postgreesql.png" /> 
+  <img alt="Javascript" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
+  <img alt="Javascript" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+</p>
 
 
-</table>
-</html>
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/shahriaramin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ShahriarAmin-blue"></a>
+</p>

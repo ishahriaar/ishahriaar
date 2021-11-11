@@ -24,6 +24,6 @@
 <p align="center">
 
   
-  <a href="https://www.linkedin.com/in/shahriaramin/"><img alt="LinkedIn" src="https://img.shields.io/badge/_LinkedIn-Shahriar%20Amin-brightgreen"></a>
+ <a href="https://www.linkedin.com/in/shahriaramin/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-Shahriar%20Amin-brightgreen?style=?style=flat-      square&logo=LinkedIn"></a>
   <a href="https://twitter.com/alpha_turing"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow%20Me-blue"></a>
 </p>

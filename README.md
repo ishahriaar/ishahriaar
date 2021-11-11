@@ -23,8 +23,9 @@
 
 <p align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-amirulislamalmamun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirulislamalmamun/)](https://www.linkedin.com/in/amirulislamalmamun/) [![Twitter Badge](https://img.shields.io/badge/-@_shiningflash-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_shiningflash)](https://twitter.com/_shiningflash) [![Medium Badge](https://img.shields.io/badge/-@amirulislamalmamun-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@amirulislamalmamun/)](https://medium.com/@amirulislamalmamun) [![Gmail Badge](https://img.shields.io/badge/-amirulislamalmamun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amirulislamalmamun@gmail.com)](mailto:amirulislamalmamun@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-amirulislamalmamun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahriaramin/)](https://www.linkedin.com/in/shahriaramin/) 
   
- <a href="https://www.linkedin.com/in/shahriaramin/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-Shahriar%20Amin-brightgreen?style=flat-      square&logo=LinkedIn"></a>
-  <a href="https://twitter.com/alpha_turing"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow%20Me-blue"></a>
+[![Twitter Badge](https://img.shields.io/badge/-@_shiningflash-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alpha_turing)](https://twitter.com/alpha_turing) 
+  
+ 
 </p>

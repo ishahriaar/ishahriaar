@@ -16,7 +16,7 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" />
   
   <img src="https://s10.gifyu.com/images/odoo1.png" />
-  <img src="https://s10.gifyu.com/images/xml-vector-icon-1.jpg" />
+  <img src="https://s10.gifyu.com/images/xml-vector-icon-removebg-preview-1.png" />
   
 </p>
 

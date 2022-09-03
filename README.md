@@ -4,7 +4,7 @@
 
 </br>
 
-<p> Hey There ! </br>  I'm <b> M M Shahriar Amin </b>. Focusing on develop scalable and well documented code. Learning new things every day. </b>
+<p> Hey There ! </br>  I'm <b> MM Shahriar Amin </b>. Focusing on develop scalable and well documented code. Learning new things every day. </b>
 </br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-_ShahriarAmin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahriaramin/)](https://www.linkedin.com/in/shahriaramin/) 

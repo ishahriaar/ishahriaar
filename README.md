@@ -9,9 +9,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-_ShahriarAmin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahriaramin/)](https://www.linkedin.com/in/shahriaramin/) 
 
-[![Twitter Badge](https://img.shields.io/badge/-_ShahriarAmin-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alpha_turing)](https://twitter.com/alpha_turing) 
+[![Twitter Badge](https://img.shields.io/badge/-_ShahriarAmin-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alpha_turing)](https://twitter.com/alphaturing) 
 
-<h3>I work with </h3>
+<h3> I work with </h3>
 <p>
   </br></br>
   <img alt="Java" src="https://s10.gifyu.com/images/java-logo-1-1.png" />

@@ -9,7 +9,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-_ShahriarAmin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahriaramin/)](https://www.linkedin.com/in/shahriaramin/) 
 
-[![Twitter Badge](https://img.shields.io/badge/-_ShahriarAmin-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alpha_turing)](https://twitter.com/alphaturing) 
+[![Twitter Badge](https://img.shields.io/badge/-_ShahriarAmin-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alpha_turing)](https://twitter.com/ishahriaar) 
 
 <h3> I work with </h3>
 <p>
@@ -19,7 +19,7 @@
   <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" /> 
  
   <img alt="Javascript" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
-  <img alt="Javascript" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
+  <img src="https://img.icons8.com/color/48/null/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" />
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" />
   <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v2.png"/>

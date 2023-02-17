@@ -17,7 +17,7 @@
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
   <img alt="Django" src="https://img.icons8.com/color/48/000000/django.png" /> 
   <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" /> 
-  <img src="https://img.icons8.com/external-others-iconmarket/64/null/external-xml-file-types-others-iconmarket.png"/>
+  <img src="https://img.icons8.com/external-others-iconmarket/48/null/external-xml-file-types-others-iconmarket.png"/>
   <img alt="Javascript" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
   <img src="https://img.icons8.com/color/48/000000/git.png" />
   <img src="https://img.icons8.com/fluency/48/null/anaconda--v2.png"/>

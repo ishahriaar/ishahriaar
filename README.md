@@ -20,10 +20,10 @@
   <img src="https://img.icons8.com/external-others-iconmarket/64/null/external-xml-file-types-others-iconmarket.png"/>
   <img alt="Javascript" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
   <img src="https://img.icons8.com/color/48/000000/git.png" />
-  <img src="https://img.icons8.com/fluency/96/null/anaconda--v2.png"/>
+  <img src="https://img.icons8.com/fluency/48/null/anaconda--v2.png"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" />
   <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v2.png"/>
-  <img src="https://img.icons8.com/fluency/96/null/javascript.png"/>
+  <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
   
   </br>
 </p>

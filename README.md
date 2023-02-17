@@ -22,6 +22,7 @@
   <img alt="Javascript" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
   <img src="https://img.icons8.com/color/48/000000/git.png" />
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" />
+  <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v2.png"/>
   </br>
 </p>
 

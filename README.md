@@ -2,6 +2,8 @@
 
 ![image](src/code1710.gif)
 
+
+
 </br>
 
 <p> Hey There ! </br>  I'm <b> MM Shahriar Amin </b>. Focusing on develop scalable and well documented code. Learning new things every day. </b>
@@ -30,6 +32,8 @@
 
 
 <p align="center">
+  
+<p> [![An image of @ishahriaar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishahriaar)](https://holopin.io/@ishahriaar) </p>
 </br></br>
 
 

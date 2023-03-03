@@ -2,6 +2,7 @@
 
 ![image](src/code1710.gif)
 
+[![An image of @ishahriaar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishahriaar)](https://holopin.io/@ishahriaar)
 
 
 </br>
@@ -32,8 +33,6 @@
 
 
 <p align="center">
-  
-<p> [![An image of @ishahriaar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishahriaar)](https://holopin.io/@ishahriaar) </p>
 </br></br>
 
 
